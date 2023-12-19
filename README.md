@@ -1,2 +1,11 @@
 # cs_162_hooping
-CS 162 first project that simulates a 3pt shooting contest
+
+Author: Jonah Carr
+Date: 12/19/2023
+
+Program Description: 
+
+Instructions: First, install the code from this page. All of the necessary files
+Restrictions: 
+
+Contributions:
